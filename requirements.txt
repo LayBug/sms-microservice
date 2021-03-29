@@ -22,7 +22,7 @@ packaging==20.4
 pluggy==0.13.1
 py==1.8.1
 py-postgresql==1.2.1
-Pygments==2.6.1
+Pygments==2.7.4
 PyJWT==1.7.1
 pyparsing==2.4.7
 pyrsistent==0.16.0
