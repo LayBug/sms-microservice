@@ -20,7 +20,7 @@ more-itertools==8.3.0
 openapi-spec-validator==0.2.8
 packaging==20.4
 pluggy==0.13.1
-py==1.8.1
+py==1.10.0
 py-postgresql==1.2.1
 Pygments==2.6.1
 PyJWT==1.7.1
